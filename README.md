@@ -1,2 +1,3 @@
-# HR-case-study
-This repository is provided by the HR department of a company to find out the reason of leaving the company by employees also also create a model for future prediction based on the variables that the existing employee will leave the organization or not . If it happens so the company can take necessary steps to resolve the issue of leaving the organization.
+# High-Impact Employee Attrition Prediction & Retention Strategy
+
+This project aims to help organizations reduce turnover by identifying the key drivers of employee attrition. Using HR analytics, I performed exploratory data analysis (EDA) to find patterns and developed machine learning models to predict which employees are most likely to leave.
